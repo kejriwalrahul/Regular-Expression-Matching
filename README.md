@@ -1,7 +1,7 @@
 # Regular-Expression-Matching
 Regular Expression Matching
 
-##Instructions:
+## Instructions:
 
 1. Run main.py as:
 	`python main.py`
